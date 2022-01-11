@@ -1,1 +1,2 @@
-# reverse-a-string-for-mlh
+# reverse-a-string
+This python script is used to reverse a string
